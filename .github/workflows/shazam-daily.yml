@@ -25,6 +25,9 @@ jobs:
           python-version: '3.12'
       - name: Fetch chart and detect spikes
         run: python3 shazam_tracker.py
+      - name: Fetch Discovery chart (independent, non-blocking)
+        continue-on-error: true
+        run: python3 discovery_tracker.py
       - name: Build label digests
         run: python3 bridge.py
       - name: Save snapshots and alerts to repository
