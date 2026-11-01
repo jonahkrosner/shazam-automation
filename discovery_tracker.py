@@ -21,7 +21,7 @@ def download():
         raise ValueError("Discovery returned no rows")
     keys = {key.strip().lower(): key for key in rows[0] if key}
     if not {"rank", "artist", "title"}.issubset(keys):
-        raise ValueError(f"Unexpected Discovery headers: {list(keys)}")
+        raise ValueError(f"Discovery CSV endpoint is not returning a chart. Headers={list(keys)!r}; response_prefix={body[:220]!r}. Do not archive this as valid data.")
     result = []
     for row in rows:
         position = int(row[keys["rank"]].strip())
