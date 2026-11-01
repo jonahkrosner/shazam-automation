@@ -2,7 +2,7 @@ name: Daily Shazam spike tracker
 
 on:
   schedule:
-    - cron: '15 14 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 permissions:
