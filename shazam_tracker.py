@@ -59,7 +59,7 @@ def fetch_chart():
         if artist_title:
             chart.append({"position": position, "artist": artist.strip(), "title": title.strip()})
     positions = [item["position"] for item in chart]
-    if len(chart) < 100 or len(set(positions)) != len(positions):
+    if len(chart) != 200 or sorted(positions) != list(range(1, 201)):
         raise ValueError(f"Invalid or incomplete chart: {len(chart)} entries")
     return chart
 
