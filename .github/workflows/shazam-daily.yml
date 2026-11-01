@@ -1,0 +1,38 @@
+name: Daily Shazam spike tracker
+
+on:
+  schedule:
+    - cron: '15 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shazam-daily
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch chart and detect spikes
+        run: python3 shazam_tracker.py
+      - name: Build label digests
+        run: python3 bridge.py
+      - name: Save snapshots and alerts to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshots/ spikes.json digests/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily Shazam chart and spike alerts"
+            git push
+          fi
