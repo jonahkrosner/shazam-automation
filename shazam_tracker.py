@@ -10,7 +10,7 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 CHART_URL = "https://kworb.net/charts/shazam/us.html"
 CHART_NAME = "US Top 200"
-SPIKE_THRESHOLD = 20
+SPIKE_THRESHOLD = 10
 
 class ChartParser(HTMLParser):
     def __init__(self):
@@ -77,7 +77,9 @@ def detect_spikes(chart, previous, today):
         old = previous_positions.get((row["artist"].casefold(), row["title"].casefold()))
         jump = old - row["position"] if old is not None else None
         if old is None or jump >= SPIKE_THRESHOLD:
+            tier = ("New entry" if old is None else "Major breakout" if jump >= 40 else "Strong spike" if jump >= 20 else "Emerging spike")
             events.append({
+                "tier": tier,
                 "track": row["title"], "artist": row["artist"], "chart": CHART_NAME,
                 "old_position": old, "new_position": row["position"],
                 "jump": jump, "date": today,
