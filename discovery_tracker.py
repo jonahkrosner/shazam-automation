@@ -16,7 +16,7 @@ def download():
         body = response.read().decode("utf-8-sig")
     if "<html" in body[:300].lower():
         raise ValueError("Discovery returned HTML rather than CSV")
-    rows = list(csv.DictReader(io.StringIO(body)))
+    lines = body.splitlines()\n    header_index = next((i for i, line in enumerate(lines) if line.strip().lower().replace(" ", "") == "rank,artist,title"), None)\n    if header_index is None:\n        raise ValueError(f"Missing Discovery CSV header; response_prefix={body[:220]!r}")\n    rows = list(csv.DictReader(io.StringIO("\n".join(lines[header_index:]))))
     if not rows:
         raise ValueError("Discovery returned no rows")
     keys = {key.strip().lower(): key for key in rows[0] if key}
