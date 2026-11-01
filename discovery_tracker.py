@@ -58,8 +58,8 @@ def main():
     for row in chart:
         old = old_positions.get((row["artist"].casefold(), row["title"].casefold()))
         jump = old - row["position"] if old is not None else None
-        if old is None or jump >= 20:
-            spikes.append({"track": row["title"], "artist": row["artist"], "chart": "US Discovery", "old_position": old, "new_position": row["position"], "jump": jump, "date": today})
+        if old is None or jump >= 2:
+            spikes.append({"tier": "New entry" if old is None else "Discovery mover", "track": row["title"], "artist": row["artist"], "chart": "US Discovery", "old_position": old, "new_position": row["position"], "jump": jump, "date": today})
     path = ROOT / "spikes.json"
     existing = json.loads(path.read_text()) if path.exists() else []
     merged = [event for event in existing if event.get("chart") != "US Discovery"] + spikes
