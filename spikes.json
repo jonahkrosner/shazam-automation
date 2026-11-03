@@ -1,252 +1,252 @@
 [
   {
-    "tier": "Emerging spike",
-    "track": "Gangster Bxtch",
-    "artist": "Additup",
-    "chart": "US Top 200",
-    "old_position": 26,
-    "new_position": 9,
-    "jump": 17,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "New entry",
-    "track": "Flower In A Hurricane [From GTAVI: Original Score]",
-    "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 14,
-    "jump": null,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Calling All the Monsters",
-    "artist": "China Anne McClain",
-    "chart": "US Top 200",
-    "old_position": 65,
-    "new_position": 52,
-    "jump": 13,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Major breakout",
+    "tier": "Strong spike",
     "track": "Dog Dribble",
     "artist": "Getdown Services",
     "chart": "US Top 200",
-    "old_position": 102,
-    "new_position": 54,
-    "jump": 48,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Dead Man's Party",
-    "artist": "Oingo Boingo",
-    "chart": "US Top 200",
-    "old_position": 84,
-    "new_position": 73,
-    "jump": 11,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Major breakout",
-    "track": "Grief is Only Love (Acoustic)",
-    "artist": "Stephen Wilson Jr.",
-    "chart": "US Top 200",
-    "old_position": 184,
-    "new_position": 79,
-    "jump": 105,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Major breakout",
-    "track": "Ramalama (Bang Bang)",
-    "artist": "R\u00f3is\u00edn Murphy",
-    "chart": "US Top 200",
-    "old_position": 160,
-    "new_position": 102,
-    "jump": 58,
-    "date": "2026-11-02"
+    "old_position": 54,
+    "new_position": 28,
+    "jump": 26,
+    "date": "2026-11-03"
   },
   {
     "tier": "Strong spike",
-    "track": "Somewhere I Belong",
-    "artist": "LINKIN PARK",
+    "track": "Grief is Only Love (Acoustic)",
+    "artist": "Stephen Wilson Jr.",
     "chart": "US Top 200",
-    "old_position": 131,
-    "new_position": 108,
-    "jump": 23,
-    "date": "2026-11-02"
+    "old_position": 79,
+    "new_position": 45,
+    "jump": 34,
+    "date": "2026-11-03"
   },
   {
-    "tier": "Major breakout",
+    "tier": "Strong spike",
     "track": "GIVE IT ALL",
     "artist": "BigXthaPlug",
     "chart": "US Top 200",
-    "old_position": 149,
-    "new_position": 109,
-    "jump": 40,
-    "date": "2026-11-02"
+    "old_position": 109,
+    "new_position": 73,
+    "jump": 36,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Ramalama (Bang Bang)",
+    "artist": "R\u00f3is\u00edn Murphy",
+    "chart": "US Top 200",
+    "old_position": 102,
+    "new_position": 82,
+    "jump": 20,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Somewhere I Belong",
+    "artist": "LINKIN PARK",
+    "chart": "US Top 200",
+    "old_position": 108,
+    "new_position": 89,
+    "jump": 19,
+    "date": "2026-11-03"
   },
   {
     "tier": "Emerging spike",
     "track": "Time",
     "artist": "Pink Floyd",
     "chart": "US Top 200",
-    "old_position": 130,
-    "new_position": 114,
-    "jump": 16,
-    "date": "2026-11-02"
+    "old_position": 114,
+    "new_position": 97,
+    "jump": 17,
+    "date": "2026-11-03"
   },
   {
-    "tier": "New entry",
+    "tier": "Strong spike",
     "track": "POKITO",
     "artist": "Daddy Yankee & Diljit Dosanjh",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 120,
-    "jump": null,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Fancy (feat. Charli XCX)",
-    "artist": "Iggy Azalea",
-    "chart": "US Top 200",
-    "old_position": 144,
-    "new_position": 130,
-    "jump": 14,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "BANKS HOUSE",
-    "artist": "Fatt Smaxk",
-    "chart": "US Top 200",
-    "old_position": 150,
-    "new_position": 136,
-    "jump": 14,
-    "date": "2026-11-02"
+    "old_position": 120,
+    "new_position": 99,
+    "jump": 21,
+    "date": "2026-11-03"
   },
   {
     "tier": "Strong spike",
     "track": "Happy Monday (W Sound 10)",
     "artist": "W Sound, Hades66 & Ovy On the Drums",
     "chart": "US Top 200",
-    "old_position": 158,
-    "new_position": 138,
-    "jump": 20,
-    "date": "2026-11-02"
+    "old_position": 138,
+    "new_position": 107,
+    "jump": 31,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Fancy (feat. Charli XCX)",
+    "artist": "Iggy Azalea",
+    "chart": "US Top 200",
+    "old_position": 130,
+    "new_position": 111,
+    "jump": 19,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "BANKS HOUSE",
+    "artist": "Fatt Smaxk",
+    "chart": "US Top 200",
+    "old_position": 136,
+    "new_position": 122,
+    "jump": 14,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Calabria 2008 (feat. Natasja)",
+    "artist": "Enur",
+    "chart": "US Top 200",
+    "old_position": 178,
+    "new_position": 124,
+    "jump": 54,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Closer",
+    "artist": "Kings of Leon",
+    "chart": "US Top 200",
+    "old_position": 182,
+    "new_position": 125,
+    "jump": 57,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Face Card (feat. Bryson Tiller)",
+    "artist": "Skilla Baby & Chris Brown",
+    "chart": "US Top 200",
+    "old_position": 137,
+    "new_position": 127,
+    "jump": 10,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "deja vu",
+    "artist": "Olivia Rodrigo",
+    "chart": "US Top 200",
+    "old_position": 160,
+    "new_position": 134,
+    "jump": 26,
+    "date": "2026-11-03"
   },
   {
     "tier": "New entry",
     "track": "Peli De Terror",
-    "artist": "K\u00f8ddy G",
+    "artist": "K\u00f8ddy G, THE FAVORITES & Fharid On The Beat",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 159,
+    "new_position": 136,
     "jump": null,
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   {
-    "tier": "Strong spike",
+    "tier": "Emerging spike",
+    "track": "Alma Rota",
+    "artist": "Dalvin La Melodia & El Blachy",
+    "chart": "US Top 200",
+    "old_position": 155,
+    "new_position": 142,
+    "jump": 13,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "Heads Will Roll (A-Trak Remix)",
     "artist": "Yeah Yeah Yeahs",
     "chart": "US Top 200",
-    "old_position": 193,
-    "new_position": 161,
-    "jump": 32,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Without Me",
-    "artist": "Eminem",
-    "chart": "US Top 200",
-    "old_position": 174,
-    "new_position": 163,
+    "old_position": 161,
+    "new_position": 150,
     "jump": 11,
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   {
     "tier": "New entry",
-    "track": "Goo Goo Muck",
-    "artist": "The Cramps",
+    "track": "Remember Me (Mixed)",
+    "artist": "Blue Boy",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 166,
+    "new_position": 164,
     "jump": null,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "New entry",
-    "track": "Ghost Town (Re-Recorded)",
-    "artist": "The Specials",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 173,
-    "jump": null,
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   {
     "tier": "Strong spike",
-    "track": "I Put a Spell On You",
-    "artist": "Screamin' Jay Hawkins",
+    "track": "(Not Just) Knee Deep (Mixed)",
+    "artist": "Funkadelic",
     "chart": "US Top 200",
-    "old_position": 199,
-    "new_position": 176,
-    "jump": 23,
-    "date": "2026-11-02"
+    "old_position": 192,
+    "new_position": 167,
+    "jump": 25,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "De Amanec\u00eda",
+    "artist": "Yoan Retro, Kreizy k & Malcom Produce",
+    "chart": "US Top 200",
+    "old_position": 194,
+    "new_position": 168,
+    "jump": 26,
+    "date": "2026-11-03"
+  },
+  {
+    "tier": "New entry",
+    "track": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 171,
+    "jump": null,
+    "date": "2026-11-03"
   },
   {
     "tier": "Emerging spike",
-    "track": "Calabria 2008 (feat. Natasja)",
-    "artist": "Enur",
+    "track": "Cry About It",
+    "artist": "Keysoul",
     "chart": "US Top 200",
     "old_position": 189,
-    "new_position": 178,
-    "jump": 11,
-    "date": "2026-11-02"
+    "new_position": 173,
+    "jump": 16,
+    "date": "2026-11-03"
   },
   {
-    "tier": "New entry",
-    "track": "Closer",
-    "artist": "Kings of Leon",
+    "tier": "Emerging spike",
+    "track": "We Are The People",
+    "artist": "Empire Of The Sun",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 182,
-    "jump": null,
-    "date": "2026-11-02"
+    "old_position": 199,
+    "new_position": 187,
+    "jump": 12,
+    "date": "2026-11-03"
   },
   {
     "tier": "New entry",
-    "track": "Oh Klahoma",
-    "artist": "Jack Stauber",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 185,
-    "jump": null,
-    "date": "2026-11-02"
-  },
-  {
-    "tier": "New entry",
-    "track": "Power Trip (feat. Miguel)",
-    "artist": "J. Cole",
+    "track": "All I Need",
+    "artist": "Clams Casino",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 191,
     "jump": null,
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   {
     "tier": "New entry",
-    "track": "(Not Just) Knee Deep (Mixed)",
-    "artist": "Funkadelic",
+    "track": "L'amour Toujours",
+    "artist": "Gigi D'Agostino",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 192,
+    "new_position": 195,
     "jump": null,
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   }
 ]
