@@ -32,7 +32,7 @@
   {
     "tier": "Strong spike",
     "track": "Ramalama (Bang Bang)",
-    "artist": "Róisín Murphy",
+    "artist": "R\u00f3is\u00edn Murphy",
     "chart": "US Top 200",
     "old_position": 102,
     "new_position": 82,
@@ -142,7 +142,7 @@
   {
     "tier": "New entry",
     "track": "Peli De Terror",
-    "artist": "Køddy G, THE FAVORITES & Fharid On The Beat",
+    "artist": "K\u00f8ddy G, THE FAVORITES & Fharid On The Beat",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 136,
@@ -191,7 +191,7 @@
   },
   {
     "tier": "Strong spike",
-    "track": "De Amanecía",
+    "track": "De Amanec\u00eda",
     "artist": "Yoan Retro, Kreizy k & Malcom Produce",
     "chart": "US Top 200",
     "old_position": 194,
@@ -246,76 +246,6 @@
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 195,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "Gangster Bxtch",
-    "artist": "Additup",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 2,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "De Amanecía",
-    "artist": "Yoan Retro, Kreizy k & Malcom Produce",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 4,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "Babydoll",
-    "artist": "Jamie Miller",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 5,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "Discovery mover",
-    "track": "Acting Like You Kanye",
-    "artist": "Raud",
-    "chart": "US Discovery",
-    "old_position": 9,
-    "new_position": 7,
-    "jump": 2,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "Cry About It",
-    "artist": "Keysoul",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 8,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "Free Your Mind",
-    "artist": "Prospa, Cloonee & Sybil",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 9,
-    "jump": null,
-    "date": "2026-11-03"
-  },
-  {
-    "tier": "New entry",
-    "track": "Soldado Engañado",
-    "artist": "Yenddi",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 10,
     "jump": null,
     "date": "2026-11-03"
   }
