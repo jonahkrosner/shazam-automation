@@ -12,7 +12,7 @@
   {
     "tier": "New entry",
     "track": "Save The Hero",
-    "artist": "Beyoncé",
+    "artist": "Beyonc\u00e9",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 23,
@@ -212,7 +212,7 @@
   {
     "tier": "Emerging spike",
     "track": "Peli De Terror",
-    "artist": "Køddy G, THE FAVORITES & Fharid On The Beat",
+    "artist": "K\u00f8ddy G, THE FAVORITES & Fharid On The Beat",
     "chart": "US Top 200",
     "old_position": 120,
     "new_position": 109,
@@ -341,7 +341,7 @@
   },
   {
     "tier": "Strong spike",
-    "track": "Soldado Engañado",
+    "track": "Soldado Engan\u0303ado",
     "artist": "Yenddi",
     "chart": "US Top 200",
     "old_position": 162,
@@ -411,7 +411,7 @@
   },
   {
     "tier": "Emerging spike",
-    "track": "De Amanecía",
+    "track": "De Amanec\u00eda",
     "artist": "Yoan Retro, Kreizy k & Malcom Produce",
     "chart": "US Top 200",
     "old_position": 175,
@@ -581,7 +581,7 @@
   },
   {
     "tier": "New entry",
-    "track": "I’m Spent",
+    "track": "I\u2019m Spent",
     "artist": "Drake & Loe Shimmy",
     "chart": "US Top 200",
     "old_position": null,
