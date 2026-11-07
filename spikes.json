@@ -1,762 +1,642 @@
 [
   {
-    "tier": "New entry",
-    "track": "WTF GOIN",
-    "artist": "Belly Gang Kushington & 21 Savage",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 8,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
     "tier": "Emerging spike",
-    "track": "Save The Hero",
-    "artist": "Beyoncé",
-    "chart": "US Top 200",
-    "old_position": 23,
-    "new_position": 12,
-    "jump": 11,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "Bad Times (Extended Version)",
-    "artist": "Imael Angel",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 18,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Stop The Wedding!",
-    "artist": "Ashe",
-    "chart": "US Top 200",
-    "old_position": 41,
-    "new_position": 29,
-    "jump": 12,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
     "track": "Rechazame",
     "artist": "Prince Royce",
     "chart": "US Top 200",
-    "old_position": 83,
-    "new_position": 50,
-    "jump": 33,
-    "date": "2026-11-06"
+    "old_position": 50,
+    "new_position": 37,
+    "jump": 13,
+    "date": "2026-11-07"
   },
   {
-    "tier": "Major breakout",
-    "track": "back to friends",
-    "artist": "sombr",
-    "chart": "US Top 200",
-    "old_position": 94,
-    "new_position": 54,
-    "jump": 40,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
+    "tier": "Emerging spike",
     "track": "BANKS HOUSE",
     "artist": "Fatt Smaxk",
     "chart": "US Top 200",
-    "old_position": 93,
-    "new_position": 59,
-    "jump": 34,
-    "date": "2026-11-06"
+    "old_position": 59,
+    "new_position": 46,
+    "jump": 13,
+    "date": "2026-11-07"
   },
   {
-    "tier": "Emerging spike",
-    "track": "Closer",
-    "artist": "Kings of Leon",
-    "chart": "US Top 200",
-    "old_position": 85,
-    "new_position": 73,
-    "jump": 12,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Major breakout",
+    "tier": "Strong spike",
     "track": "Desvelado",
     "artist": "Bobby Pulido",
     "chart": "US Top 200",
-    "old_position": 183,
-    "new_position": 79,
-    "jump": 104,
-    "date": "2026-11-06"
+    "old_position": 79,
+    "new_position": 56,
+    "jump": 23,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
-    "track": "deja vu",
-    "artist": "Olivia Rodrigo",
+    "track": "Mr. Brightside",
+    "artist": "The Killers",
     "chart": "US Top 200",
-    "old_position": 97,
-    "new_position": 80,
-    "jump": 17,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Jaded",
-    "artist": "Koe Wetzel & Ella Langley",
-    "chart": "US Top 200",
-    "old_position": 95,
-    "new_position": 85,
-    "jump": 10,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Remember Me (Mixed)",
-    "artist": "Blue Boy",
-    "chart": "US Top 200",
-    "old_position": 103,
-    "new_position": 86,
-    "jump": 17,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Great Expectation",
-    "artist": "SIENNA SPIRO",
-    "chart": "US Top 200",
-    "old_position": 100,
-    "new_position": 88,
+    "old_position": 70,
+    "new_position": 58,
     "jump": 12,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Skrt",
+    "artist": "Kodak Black",
+    "chart": "US Top 200",
+    "old_position": 136,
+    "new_position": 74,
+    "jump": 62,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "Apocalypse",
     "artist": "Cigarettes After Sex",
     "chart": "US Top 200",
-    "old_position": 99,
-    "new_position": 89,
-    "jump": 10,
-    "date": "2026-11-06"
+    "old_position": 89,
+    "new_position": 77,
+    "jump": 12,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
-    "track": "Face Card (feat. Bryson Tiller)",
-    "artist": "Skilla Baby & Chris Brown",
-    "chart": "US Top 200",
-    "old_position": 105,
-    "new_position": 93,
-    "jump": 12,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
     "track": "Empty Words",
     "artist": "Corey Kent",
     "chart": "US Top 200",
-    "old_position": 120,
-    "new_position": 94,
-    "jump": 26,
-    "date": "2026-11-06"
+    "old_position": 94,
+    "new_position": 82,
+    "jump": 12,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "New entry",
+    "track": "Cry On You",
+    "artist": "Mannywellz & Odeal",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 88,
+    "jump": null,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
-    "track": "What's Up?",
-    "artist": "4 Non Blondes",
-    "chart": "US Top 200",
-    "old_position": 111,
-    "new_position": 95,
-    "jump": 16,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Okayyy",
-    "artist": "Latto & Doja Cat",
-    "chart": "US Top 200",
-    "old_position": 110,
-    "new_position": 96,
-    "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Babydoll",
-    "artist": "Jamie Miller",
-    "chart": "US Top 200",
-    "old_position": 112,
-    "new_position": 98,
-    "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Amor",
-    "artist": "Emmanuel Cortes",
-    "chart": "US Top 200",
-    "old_position": 124,
-    "new_position": 99,
-    "jump": 25,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Jamaican (Bam Bam)",
-    "artist": "HUGEL & SOLTO (FR)",
-    "chart": "US Top 200",
-    "old_position": 115,
-    "new_position": 101,
-    "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
     "track": "Smells Like Teen Spirit",
     "artist": "Nirvana",
     "chart": "US Top 200",
-    "old_position": 128,
-    "new_position": 102,
-    "jump": 26,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Without Me",
-    "artist": "Eminem",
-    "chart": "US Top 200",
-    "old_position": 121,
-    "new_position": 103,
-    "jump": 18,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Lies (feat. Lana Del Rey)",
-    "artist": "Zach Bryan & Lana Del Rey",
-    "chart": "US Top 200",
-    "old_position": 119,
-    "new_position": 104,
-    "jump": 15,
-    "date": "2026-11-06"
+    "old_position": 102,
+    "new_position": 89,
+    "jump": 13,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "Don't Stop Believin'",
     "artist": "Journey",
     "chart": "US Top 200",
-    "old_position": 123,
-    "new_position": 106,
-    "jump": 17,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Dance With Me",
-    "artist": "Bruno Mars",
-    "chart": "US Top 200",
-    "old_position": 118,
-    "new_position": 108,
-    "jump": 10,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Orbiter",
-    "artist": "Noah Kahan",
-    "chart": "US Top 200",
-    "old_position": 122,
-    "new_position": 111,
-    "jump": 11,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "onsra",
-    "artist": "comehelpglo",
-    "chart": "US Top 200",
-    "old_position": 126,
-    "new_position": 116,
-    "jump": 10,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Show Me Love",
-    "artist": "Robin S.",
-    "chart": "US Top 200",
-    "old_position": 143,
-    "new_position": 117,
-    "jump": 26,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Cinderella (feat. Ty Dolla $ign)",
-    "artist": "Mac Miller",
-    "chart": "US Top 200",
-    "old_position": 129,
-    "new_position": 118,
-    "jump": 11,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Cry About It",
-    "artist": "Keysoul",
-    "chart": "US Top 200",
-    "old_position": 140,
-    "new_position": 119,
-    "jump": 21,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "petal",
-    "artist": "Ariana Grande",
-    "chart": "US Top 200",
-    "old_position": 132,
-    "new_position": 120,
-    "jump": 12,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "I Just Might",
-    "artist": "Bruno Mars",
-    "chart": "US Top 200",
-    "old_position": 139,
-    "new_position": 126,
-    "jump": 13,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Janice STFU",
-    "artist": "Drake",
-    "chart": "US Top 200",
-    "old_position": 145,
-    "new_position": 130,
+    "old_position": 106,
+    "new_position": 91,
     "jump": 15,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Careless Whisper",
-    "artist": "George Michael",
-    "chart": "US Top 200",
-    "old_position": 148,
-    "new_position": 132,
-    "jump": 16,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Folded",
-    "artist": "Kehlani",
-    "chart": "US Top 200",
-    "old_position": 146,
-    "new_position": 135,
-    "jump": 11,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "Skrt",
-    "artist": "Kodak Black",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 136,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Last Christmas (Single Version)",
-    "artist": "Wham!",
-    "chart": "US Top 200",
-    "old_position": 175,
-    "new_position": 138,
-    "jump": 37,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Beautiful Things",
-    "artist": "Benson Boone",
-    "chart": "US Top 200",
-    "old_position": 161,
-    "new_position": 139,
-    "jump": 22,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "Major breakout",
-    "track": "I Hate That I Miss You",
-    "artist": "Bc Tray",
+    "track": "Last Christmas (Single Version)",
+    "artist": "Wham!",
     "chart": "US Top 200",
-    "old_position": 200,
-    "new_position": 142,
-    "jump": 58,
-    "date": "2026-11-06"
+    "old_position": 138,
+    "new_position": 96,
+    "jump": 42,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
-    "track": "Ordinary",
-    "artist": "Alex Warren",
+    "track": "Disparate Youth",
+    "artist": "Santigold",
     "chart": "US Top 200",
-    "old_position": 157,
-    "new_position": 143,
-    "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Broken Window Serenade",
-    "artist": "Whiskey Myers",
-    "chart": "US Top 200",
-    "old_position": 159,
-    "new_position": 145,
-    "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Dreams",
-    "artist": "Fleetwood Mac",
-    "chart": "US Top 200",
-    "old_position": 166,
-    "new_position": 146,
-    "jump": 20,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Lose Control",
-    "artist": "Teddy Swims",
-    "chart": "US Top 200",
-    "old_position": 167,
-    "new_position": 147,
-    "jump": 20,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "RAGING WOLF",
-    "artist": "Sematary",
-    "chart": "US Top 200",
-    "old_position": 174,
-    "new_position": 148,
-    "jump": 26,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Olimpo",
-    "artist": "Neton Vega & Fuerza Regida",
-    "chart": "US Top 200",
-    "old_position": 160,
-    "new_position": 150,
+    "old_position": 112,
+    "new_position": 102,
     "jump": 10,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Cry About It",
+    "artist": "Keysoul",
+    "chart": "US Top 200",
+    "old_position": 119,
+    "new_position": 108,
+    "jump": 11,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Return of the Mack",
+    "artist": "Mark Morrison",
+    "chart": "US Top 200",
+    "old_position": 121,
+    "new_position": 109,
+    "jump": 12,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Careless Whisper",
+    "artist": "George Michael",
+    "chart": "US Top 200",
+    "old_position": 132,
+    "new_position": 112,
+    "jump": 20,
+    "date": "2026-11-07"
   },
   {
     "tier": "Strong spike",
     "track": "Take On Me",
     "artist": "a-ha",
     "chart": "US Top 200",
-    "old_position": 177,
-    "new_position": 151,
+    "old_position": 151,
+    "new_position": 115,
+    "jump": 36,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Beautiful Things",
+    "artist": "Benson Boone",
+    "chart": "US Top 200",
+    "old_position": 139,
+    "new_position": 121,
+    "jump": 18,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Olimpo",
+    "artist": "Neton Vega & Fuerza Regida",
+    "chart": "US Top 200",
+    "old_position": 150,
+    "new_position": 124,
     "jump": 26,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Folded",
+    "artist": "Kehlani",
+    "chart": "US Top 200",
+    "old_position": 135,
+    "new_position": 125,
+    "jump": 10,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Dreams",
+    "artist": "Fleetwood Mac",
+    "chart": "US Top 200",
+    "old_position": 146,
+    "new_position": 127,
+    "jump": 19,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Dance Alone",
+    "artist": "J.Truth & OTG Zico",
+    "chart": "US Top 200",
+    "old_position": 166,
+    "new_position": 128,
+    "jump": 38,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Ordinary",
+    "artist": "Alex Warren",
+    "chart": "US Top 200",
+    "old_position": 143,
+    "new_position": 130,
+    "jump": 13,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "chart": "US Top 200",
+    "old_position": 145,
+    "new_position": 132,
+    "jump": 13,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Your Love",
+    "artist": "The Outfield",
+    "chart": "US Top 200",
+    "old_position": 157,
+    "new_position": 134,
+    "jump": 23,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "RAGING WOLF",
+    "artist": "Sematary",
+    "chart": "US Top 200",
+    "old_position": 148,
+    "new_position": 135,
+    "jump": 13,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Lose Control",
+    "artist": "Teddy Swims",
+    "chart": "US Top 200",
+    "old_position": 147,
+    "new_position": 136,
+    "jump": 11,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Some Nights",
+    "artist": "Getout!",
+    "chart": "US Top 200",
+    "old_position": 183,
+    "new_position": 137,
+    "jump": 46,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "chart": "US Top 200",
+    "old_position": 158,
+    "new_position": 139,
+    "jump": 19,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "We Are The People",
     "artist": "Empire Of The Sun",
     "chart": "US Top 200",
-    "old_position": 168,
-    "new_position": 154,
+    "old_position": 154,
+    "new_position": 140,
     "jump": 14,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "De Amanecía",
-    "artist": "Yoan Retro, Kreizy k & Malcom Produce",
-    "chart": "US Top 200",
-    "old_position": 165,
-    "new_position": 155,
-    "jump": 10,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "El Dueño De Tu Amor By Los Jrs",
-    "artist": "Los Yes Yes, Sonido Los Jrs Oficial, Rolandos Show & Los JR's",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 156,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Your Love",
-    "artist": "The Outfield",
-    "chart": "US Top 200",
-    "old_position": 170,
-    "new_position": 157,
-    "jump": 13,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "Strong spike",
-    "track": "Livin' On A Prayer",
-    "artist": "Bon Jovi",
+    "track": "Somebody That I Used to Know (feat. Kimbra)",
+    "artist": "Gotye",
     "chart": "US Top 200",
-    "old_position": 179,
-    "new_position": 158,
-    "jump": 21,
-    "date": "2026-11-06"
+    "old_position": 168,
+    "new_position": 141,
+    "jump": 27,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "El Dueño De Tu Amor By Los Jrs",
+    "artist": "Los Yes Yes, Sonido Los Jrs Oficial, Rolandos Show & Los JR's",
+    "chart": "US Top 200",
+    "old_position": 156,
+    "new_position": 143,
+    "jump": 13,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "Every Night (feat. Don Toliver)",
     "artist": "Offset",
     "chart": "US Top 200",
-    "old_position": 178,
-    "new_position": 163,
-    "jump": 15,
-    "date": "2026-11-06"
+    "old_position": 163,
+    "new_position": 145,
+    "jump": 18,
+    "date": "2026-11-07"
   },
   {
-    "tier": "Emerging spike",
-    "track": "Yeah! (feat. Lil Jon & Ludacris)",
-    "artist": "USHER",
-    "chart": "US Top 200",
-    "old_position": 176,
-    "new_position": 165,
-    "jump": 11,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "Dance Alone",
-    "artist": "J.Truth & OTG Zico",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 166,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Somebody That I Used to Know (feat. Kimbra)",
-    "artist": "Gotye",
-    "chart": "US Top 200",
-    "old_position": 184,
-    "new_position": 168,
-    "jump": 16,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
+    "tier": "Strong spike",
     "track": "bloodstream",
     "artist": "Alyssa Grace",
     "chart": "US Top 200",
-    "old_position": 188,
-    "new_position": 169,
-    "jump": 19,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Cowboys And Angels (Live)",
-    "artist": "George Michael",
-    "chart": "US Top 200",
-    "old_position": 185,
-    "new_position": 170,
-    "jump": 15,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "My Old Ways",
-    "artist": "Tame Impala",
-    "chart": "US Top 200",
-    "old_position": 195,
-    "new_position": 172,
+    "old_position": 169,
+    "new_position": 146,
     "jump": 23,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "I’m Spent",
-    "artist": "Drake & Loe Shimmy",
-    "chart": "US Top 200",
-    "old_position": 198,
-    "new_position": 174,
-    "jump": 24,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Stayin' Alive",
-    "artist": "Bee Gees",
-    "chart": "US Top 200",
-    "old_position": 187,
-    "new_position": 175,
-    "jump": 12,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "Strong spike",
     "track": "The Reason",
     "artist": "Hoobastank",
     "chart": "US Top 200",
-    "old_position": 199,
-    "new_position": 177,
-    "jump": 22,
-    "date": "2026-11-06"
+    "old_position": 177,
+    "new_position": 147,
+    "jump": 30,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Yeah! (feat. Lil Jon & Ludacris)",
+    "artist": "USHER",
+    "chart": "US Top 200",
+    "old_position": 165,
+    "new_position": 149,
+    "jump": 16,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Luxury",
+    "artist": "Azealia Banks",
+    "chart": "US Top 200",
+    "old_position": 180,
+    "new_position": 150,
+    "jump": 30,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "I’m Spent",
+    "artist": "Drake & Loe Shimmy",
+    "chart": "US Top 200",
+    "old_position": 174,
+    "new_position": 153,
+    "jump": 21,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "New entry",
+    "track": "PARADIXE (feat. Myke Towers) [REMIX]",
+    "artist": "Feid, El Americano 4KT, Omar Courtz & Pirlo",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 155,
+    "jump": null,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "AH HA",
+    "artist": "Cardi B",
+    "chart": "US Top 200",
+    "old_position": 167,
+    "new_position": 156,
+    "jump": 11,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Hey Ya!",
+    "artist": "Outkast",
+    "chart": "US Top 200",
+    "old_position": 176,
+    "new_position": 158,
+    "jump": 18,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "Outro",
     "artist": "M83",
     "chart": "US Top 200",
-    "old_position": 191,
-    "new_position": 178,
-    "jump": 13,
-    "date": "2026-11-06"
+    "old_position": 178,
+    "new_position": 160,
+    "jump": 18,
+    "date": "2026-11-07"
   },
   {
     "tier": "Emerging spike",
     "track": "Sign of the Times",
     "artist": "Harry Styles",
     "chart": "US Top 200",
-    "old_position": 190,
-    "new_position": 179,
-    "jump": 11,
-    "date": "2026-11-06"
+    "old_position": 179,
+    "new_position": 161,
+    "jump": 18,
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Luxury",
-    "artist": "Azealia Banks",
+    "track": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 180,
+    "new_position": 162,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "LET 'EM KNOW",
+    "artist": "T.I.",
+    "chart": "US Top 200",
+    "old_position": 186,
+    "new_position": 168,
+    "jump": 18,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "nothing",
+    "artist": "Steve Lacy",
+    "chart": "US Top 200",
+    "old_position": 192,
+    "new_position": 169,
+    "jump": 23,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "No Hands (feat. Roscoe Dash & Wale)",
+    "artist": "Waka Flocka Flame",
+    "chart": "US Top 200",
+    "old_position": 184,
+    "new_position": 170,
+    "jump": 14,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Don't Speak",
+    "artist": "No Doubt",
+    "chart": "US Top 200",
+    "old_position": 182,
+    "new_position": 171,
+    "jump": 11,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Fade into You",
+    "artist": "Mazzy Star",
+    "chart": "US Top 200",
+    "old_position": 185,
+    "new_position": 172,
+    "jump": 13,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Never Too Much",
+    "artist": "Luther Vandross",
+    "chart": "US Top 200",
+    "old_position": 199,
+    "new_position": 173,
+    "jump": 26,
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Some Nights",
-    "artist": "Getout!",
+    "track": "Bonito, Bonito",
+    "artist": "Thiago Navarro Music",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 175,
+    "jump": null,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "New entry",
+    "track": "You Get What You Give",
+    "artist": "New Radicals",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 177,
+    "jump": null,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "New entry",
+    "track": "Headlines",
+    "artist": "Drake",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 178,
+    "jump": null,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Loving Life Again",
+    "artist": "Ella Langley",
+    "chart": "US Top 200",
+    "old_position": 193,
+    "new_position": 179,
+    "jump": 14,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Love Me Not",
+    "artist": "Ravyn Lenae",
+    "chart": "US Top 200",
+    "old_position": 190,
+    "new_position": 180,
+    "jump": 10,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Love",
+    "artist": "Keyshia Cole",
+    "chart": "US Top 200",
+    "old_position": 197,
+    "new_position": 181,
+    "jump": 16,
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "New entry",
+    "track": "UNETHICAL",
+    "artist": "Faouzia",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 183,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Rethink Some Things",
+    "artist": "Luke Combs",
+    "chart": "US Top 200",
+    "old_position": 196,
+    "new_position": 186,
+    "jump": 10,
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Leave You Alone (feat. Ne-Yo)",
-    "artist": "Young Jeezy",
+    "track": "What You Need - A COLORS SHOW",
+    "artist": "Tems & COLORS",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 188,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Love Me Not",
-    "artist": "Ravyn Lenae",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 190,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "This Time",
-    "artist": "Kirk Franklin & GloRilla",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 191,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "nothing",
-    "artist": "Steve Lacy",
+    "track": "Everybody Wants To Rule The World",
+    "artist": "Tears for Fears",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 192,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Loving Life Again",
-    "artist": "Ella Langley",
+    "track": "Come On Eileen",
+    "artist": "Dexys Midnight Runners",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 193,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "A Couple Minutes",
-    "artist": "Olivia Dean",
+    "track": "Wonderwall",
+    "artist": "Oasis",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 195,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Rethink Some Things",
-    "artist": "Luke Combs",
+    "track": "Rise Slow",
+    "artist": "Kimo Sounds",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 196,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Love",
-    "artist": "Keyshia Cole",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 197,
-    "jump": null,
-    "date": "2026-11-06"
-  },
-  {
-    "tier": "New entry",
-    "track": "In the Air Tonight",
-    "artist": "Phil Collins",
+    "track": "expectations",
+    "artist": "Olivia Rodrigo & Chappell Roan",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 198,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "tier": "New entry",
-    "track": "Never Too Much",
-    "artist": "Luther Vandross",
+    "track": "True",
+    "artist": "Spandau Ballet",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 199,
     "jump": null,
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   }
 ]
