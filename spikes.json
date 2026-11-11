@@ -1,272 +1,302 @@
 [
   {
-    "tier": "Emerging spike",
-    "track": "Missing Someone",
-    "artist": "Bobby Chase",
+    "tier": "New entry",
+    "track": "BAD TIMES",
+    "artist": "Imael Angel & Cali Bee",
     "chart": "US Top 200",
-    "old_position": 38,
-    "new_position": 19,
-    "jump": 19,
-    "date": "2026-11-10"
+    "old_position": null,
+    "new_position": 3,
+    "jump": null,
+    "date": "2026-11-11"
   },
   {
-    "tier": "Strong spike",
+    "tier": "Emerging spike",
     "track": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
     "artist": "Future",
     "chart": "US Top 200",
-    "old_position": 57,
-    "new_position": 36,
-    "jump": 21,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Te Estoy Correteando",
-    "artist": "LATIN MAFIA & Fred again..",
-    "chart": "US Top 200",
-    "old_position": 52,
-    "new_position": 41,
-    "jump": 11,
-    "date": "2026-11-10"
+    "old_position": 36,
+    "new_position": 21,
+    "jump": 15,
+    "date": "2026-11-11"
   },
   {
     "tier": "Strong spike",
+    "track": "Babydoll",
+    "artist": "Jamie Miller",
+    "chart": "US Top 200",
+    "old_position": 67,
+    "new_position": 39,
+    "jump": 28,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "Ain't No Grave",
     "artist": "Johnny Cash",
     "chart": "US Top 200",
-    "old_position": 82,
-    "new_position": 55,
-    "jump": 27,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Olimpo",
-    "artist": "Neton Vega & Fuerza Regida",
-    "chart": "US Top 200",
-    "old_position": 90,
-    "new_position": 71,
-    "jump": 19,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "nothing",
-    "artist": "Steve Lacy",
-    "chart": "US Top 200",
-    "old_position": 123,
-    "new_position": 105,
-    "jump": 18,
-    "date": "2026-11-10"
+    "old_position": 55,
+    "new_position": 43,
+    "jump": 12,
+    "date": "2026-11-11"
   },
   {
     "tier": "Major breakout",
-    "track": "About To Get Crazy",
-    "artist": "Oh The Larceny",
-    "chart": "US Top 200",
-    "old_position": 188,
-    "new_position": 110,
-    "jump": 78,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Cowboys And Angels (Live)",
-    "artist": "George Michael",
-    "chart": "US Top 200",
-    "old_position": 132,
-    "new_position": 120,
-    "jump": 12,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "All There (feat. Bankroll Fresh)",
-    "artist": "Jeezy",
-    "chart": "US Top 200",
-    "old_position": 142,
-    "new_position": 123,
-    "jump": 19,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
-    "track": "Lonely in the Future",
-    "artist": "The Strokes",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 124,
-    "jump": null,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
     "track": "Top Uh It",
     "artist": "Lil Baby",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 131,
-    "jump": null,
-    "date": "2026-11-10"
+    "old_position": 131,
+    "new_position": 81,
+    "jump": 50,
+    "date": "2026-11-11"
   },
   {
-    "tier": "Emerging spike",
-    "track": "The Way I Are",
-    "artist": "Timbaland, Keri Hilson & D.O.E.",
+    "tier": "Strong spike",
+    "track": "About To Get Crazy",
+    "artist": "Oh The Larceny",
     "chart": "US Top 200",
-    "old_position": 147,
-    "new_position": 137,
-    "jump": 10,
-    "date": "2026-11-10"
+    "old_position": 110,
+    "new_position": 86,
+    "jump": 24,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Lonely in the Future",
+    "artist": "The Strokes",
+    "chart": "US Top 200",
+    "old_position": 124,
+    "new_position": 100,
+    "jump": 24,
+    "date": "2026-11-11"
   },
   {
     "tier": "Major breakout",
-    "track": "Walking On A Dream",
-    "artist": "Empire Of The Sun",
+    "track": "Stand By Me (Live at The Print Shop)",
+    "artist": "Stephen Wilson Jr.",
     "chart": "US Top 200",
-    "old_position": 191,
-    "new_position": 139,
-    "jump": 52,
-    "date": "2026-11-10"
+    "old_position": 193,
+    "new_position": 110,
+    "jump": 83,
+    "date": "2026-11-11"
   },
   {
-    "tier": "Strong spike",
-    "track": "Chasing Cars",
-    "artist": "Snow Patrol",
+    "tier": "New entry",
+    "track": "Cover Me Up",
+    "artist": "Jason Isbell",
     "chart": "US Top 200",
-    "old_position": 182,
-    "new_position": 153,
-    "jump": 29,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "What the World Needs Now Is Love",
-    "artist": "Andra Day",
-    "chart": "US Top 200",
-    "old_position": 176,
-    "new_position": 154,
-    "jump": 22,
-    "date": "2026-11-10"
+    "old_position": null,
+    "new_position": 123,
+    "jump": null,
+    "date": "2026-11-11"
   },
   {
     "tier": "Emerging spike",
-    "track": "Power Trip (feat. Miguel)",
-    "artist": "J. Cole",
+    "track": "Walking On A Dream",
+    "artist": "Empire Of The Sun",
     "chart": "US Top 200",
-    "old_position": 175,
-    "new_position": 160,
-    "jump": 15,
-    "date": "2026-11-10"
+    "old_position": 139,
+    "new_position": 129,
+    "jump": 10,
+    "date": "2026-11-11"
   },
   {
-    "tier": "New entry",
+    "tier": "Emerging spike",
+    "track": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "chart": "US Top 200",
+    "old_position": 153,
+    "new_position": 136,
+    "jump": 17,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "The Day The World Went Away",
+    "artist": "Nine Inch Nails",
+    "chart": "US Top 200",
+    "old_position": 177,
+    "new_position": 137,
+    "jump": 40,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Dying In This House",
+    "artist": "Mack Geiger",
+    "chart": "US Top 200",
+    "old_position": 190,
+    "new_position": 140,
+    "jump": 50,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "What the World Needs Now Is Love",
+    "artist": "Andra Day",
+    "chart": "US Top 200",
+    "old_position": 154,
+    "new_position": 141,
+    "jump": 13,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "Pass The Dutchie (12\" Version)",
     "artist": "Musical Youth",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 164,
-    "jump": null,
-    "date": "2026-11-10"
+    "old_position": 164,
+    "new_position": 148,
+    "jump": 16,
+    "date": "2026-11-11"
   },
   {
-    "tier": "New entry",
+    "tier": "Emerging spike",
     "track": "I'm The Prize (feat. Ebony Riley)",
     "artist": "Kash Doll",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 172,
-    "jump": null,
-    "date": "2026-11-10"
+    "old_position": 172,
+    "new_position": 155,
+    "jump": 17,
+    "date": "2026-11-11"
   },
   {
     "tier": "New entry",
-    "track": "The Day The World Went Away",
-    "artist": "Nine Inch Nails",
+    "track": "Your Fault",
+    "artist": "Lil Baby",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 156,
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Nothing's Gonna Stop Us Now",
+    "artist": "Starship",
+    "chart": "US Top 200",
+    "old_position": 169,
+    "new_position": 157,
+    "jump": 12,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "This Time",
+    "artist": "Kirk Franklin & GloRilla",
+    "chart": "US Top 200",
+    "old_position": 178,
+    "new_position": 164,
+    "jump": 14,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Some Nights",
+    "artist": "Getout!",
+    "chart": "US Top 200",
+    "old_position": 194,
+    "new_position": 165,
+    "jump": 29,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "You Think You Know",
+    "artist": "Caitlyn Smith",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 166,
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "Candy Rain",
+    "artist": "Soul for Real",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 171,
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "Shut It Down (feat. The-Dream)",
+    "artist": "Drake",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 176,
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "Dónde estás",
+    "artist": "Barbas & Omar Camacho",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 177,
     "jump": null,
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   {
     "tier": "Emerging spike",
-    "track": "A Couple Minutes",
-    "artist": "Olivia Dean",
+    "track": "In the Air Tonight",
+    "artist": "Phil Collins",
     "chart": "US Top 200",
-    "old_position": 199,
+    "old_position": 195,
+    "new_position": 180,
+    "jump": 15,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "Home",
+    "artist": "Three Days Grace",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 184,
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "New entry",
+    "track": "From The Back",
+    "artist": "Lil Baby",
+    "chart": "US Top 200",
+    "old_position": null,
     "new_position": 186,
-    "jump": 13,
-    "date": "2026-11-10"
+    "jump": null,
+    "date": "2026-11-11"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Leave You Alone (feat. Ne-Yo)",
+    "artist": "Young Jeezy",
+    "chart": "US Top 200",
+    "old_position": 198,
+    "new_position": 187,
+    "jump": 11,
+    "date": "2026-11-11"
   },
   {
     "tier": "New entry",
-    "track": "Dying In This House",
-    "artist": "Mack Geiger",
+    "track": "No Scrubs",
+    "artist": "TLC",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 190,
+    "new_position": 194,
     "jump": null,
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   {
     "tier": "New entry",
-    "track": "Stand By Me (Live at The Print Shop)",
-    "artist": "Stephen Wilson Jr.",
+    "track": "Somewhere Only We Know",
+    "artist": "Keane",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 193,
+    "new_position": 197,
     "jump": null,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
-    "track": "Good Luck, Babe!",
-    "artist": "Chappell Roan",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 200,
-    "jump": null,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
-    "track": "Big Michael Michael",
-    "artist": "Looze Cannon",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 4,
-    "jump": null,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "Discovery mover",
-    "track": "Cry About It",
-    "artist": "Keysoul",
-    "chart": "US Discovery",
-    "old_position": 8,
-    "new_position": 5,
-    "jump": 3,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
-    "track": "Mama, Don't Close Your Eyes",
-    "artist": "Bjorn Bonebreaker",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 8,
-    "jump": null,
-    "date": "2026-11-10"
-  },
-  {
-    "tier": "New entry",
-    "track": "Don't Let Go (Acoustic)",
-    "artist": "Zavyre",
-    "chart": "US Discovery",
-    "old_position": null,
-    "new_position": 9,
-    "jump": null,
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   }
 ]
