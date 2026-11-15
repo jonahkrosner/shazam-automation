@@ -1,322 +1,282 @@
 [
   {
     "tier": "Emerging spike",
-    "track": "Stand By Me (Live at The Print Shop)",
-    "artist": "Stephen Wilson Jr.",
-    "chart": "US Top 200",
-    "old_position": 28,
-    "new_position": 17,
-    "jump": 11,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Major breakout",
     "track": "Fly Shit (feat. Lloyd)",
     "artist": "Gucci Mane",
     "chart": "US Top 200",
-    "old_position": 67,
-    "new_position": 22,
-    "jump": 45,
-    "date": "2026-11-14"
+    "old_position": 22,
+    "new_position": 10,
+    "jump": 12,
+    "date": "2026-11-15"
   },
   {
-    "tier": "Emerging spike",
-    "track": "The Last Farewell",
-    "artist": "Roger Whittaker",
-    "chart": "US Top 200",
-    "old_position": 60,
-    "new_position": 43,
-    "jump": 17,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Your Fault",
-    "artist": "Lil Baby",
-    "chart": "US Top 200",
-    "old_position": 59,
-    "new_position": 49,
-    "jump": 10,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Major breakout",
+    "tier": "Strong spike",
     "track": "Million Laughing Emojis (REMIX)",
     "artist": "Cut Onkill & VonOff1700",
     "chart": "US Top 200",
-    "old_position": 127,
-    "new_position": 77,
-    "jump": 50,
-    "date": "2026-11-14"
+    "old_position": 77,
+    "new_position": 53,
+    "jump": 24,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "The Blower's Daughter",
+    "artist": "Damien Rice",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 67,
+    "jump": null,
+    "date": "2026-11-15"
   },
   {
     "tier": "Emerging spike",
     "track": "Chasing Cars",
     "artist": "Snow Patrol",
     "chart": "US Top 200",
-    "old_position": 104,
-    "new_position": 87,
-    "jump": 17,
-    "date": "2026-11-14"
+    "old_position": 87,
+    "new_position": 74,
+    "jump": 13,
+    "date": "2026-11-15"
   },
   {
-    "tier": "Major breakout",
+    "tier": "Emerging spike",
     "track": "Till It Happens To You",
     "artist": "Corinne Bailey Rae",
     "chart": "US Top 200",
-    "old_position": 134,
-    "new_position": 94,
-    "jump": 40,
-    "date": "2026-11-14"
+    "old_position": 94,
+    "new_position": 75,
+    "jump": 19,
+    "date": "2026-11-15"
   },
   {
-    "tier": "Emerging spike",
-    "track": "Cowboys and Angels",
-    "artist": "George Michael",
+    "tier": "Major breakout",
+    "track": "Blood In Your Eyes (from GTAVI: The Album)",
+    "artist": "Tove Lo",
     "chart": "US Top 200",
-    "old_position": 112,
-    "new_position": 101,
-    "jump": 11,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Livin' On A Prayer",
-    "artist": "Bon Jovi",
-    "chart": "US Top 200",
-    "old_position": 128,
-    "new_position": 103,
-    "jump": 25,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Pass The Dutchie (12\" Version)",
-    "artist": "Musical Youth",
-    "chart": "US Top 200",
-    "old_position": 125,
-    "new_position": 108,
-    "jump": 17,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "This Time",
-    "artist": "Kirk Franklin & GloRilla",
-    "chart": "US Top 200",
-    "old_position": 129,
-    "new_position": 113,
-    "jump": 16,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Every Night (feat. Don Toliver)",
-    "artist": "Offset",
-    "chart": "US Top 200",
-    "old_position": 126,
-    "new_position": 114,
-    "jump": 12,
-    "date": "2026-11-14"
+    "old_position": 138,
+    "new_position": 87,
+    "jump": 51,
+    "date": "2026-11-15"
   },
   {
     "tier": "Strong spike",
     "track": "What You Saying",
     "artist": "Lil Uzi Vert",
     "chart": "US Top 200",
-    "old_position": 143,
-    "new_position": 117,
-    "jump": 26,
-    "date": "2026-11-14"
+    "old_position": 117,
+    "new_position": 96,
+    "jump": 21,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Neon Moon (with Kacey Musgraves)",
+    "artist": "Brooks & Dunn",
+    "chart": "US Top 200",
+    "old_position": 173,
+    "new_position": 100,
+    "jump": 73,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Walking On A Dream",
+    "artist": "Empire Of The Sun",
+    "chart": "US Top 200",
+    "old_position": 116,
+    "new_position": 106,
+    "jump": 10,
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
-    "track": "Blood In Your Eyes (from GTAVI: The Album)",
-    "artist": "Tove Lo",
+    "track": "It's Alright",
+    "artist": "Chanté Moore",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 138,
+    "new_position": 112,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "Emerging spike",
-    "track": "No Scrubs",
-    "artist": "TLC",
+    "track": "The Wreck of the Edmund Fitzgerald",
+    "artist": "Gordon Lightfoot",
     "chart": "US Top 200",
-    "old_position": 155,
-    "new_position": 141,
-    "jump": 14,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "September",
-    "artist": "Earth, Wind & Fire",
-    "chart": "US Top 200",
-    "old_position": 156,
-    "new_position": 146,
-    "jump": 10,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Suzuki (from GTAVI: The Album)",
-    "artist": "Fuerza Regida",
-    "chart": "US Top 200",
-    "old_position": 163,
-    "new_position": 148,
-    "jump": 15,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Sinnerman",
-    "artist": "Nina Simone",
-    "chart": "US Top 200",
-    "old_position": 182,
-    "new_position": 151,
-    "jump": 31,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Nowhere Fast",
-    "artist": "Lucky Daye",
-    "chart": "US Top 200",
-    "old_position": 191,
-    "new_position": 155,
-    "jump": 36,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "In the Air Tonight",
-    "artist": "Phil Collins",
-    "chart": "US Top 200",
-    "old_position": 179,
-    "new_position": 164,
-    "jump": 15,
-    "date": "2026-11-14"
+    "old_position": 127,
+    "new_position": 116,
+    "jump": 11,
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
+    "track": "SYNTHETIC",
+    "artist": "moshc0re",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 121,
+    "jump": null,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "MTT 420 RR",
+    "artist": "IDLES",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 127,
+    "jump": null,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "Valerie",
+    "artist": "Steve Winwood",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 144,
+    "jump": null,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Yes, I'm Ready",
+    "artist": "Barbara Mason",
+    "chart": "US Top 200",
+    "old_position": 195,
+    "new_position": 152,
+    "jump": 43,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "The Night We Met",
     "artist": "Lord Huron",
+    "chart": "US Top 200",
+    "old_position": 166,
+    "new_position": 154,
+    "jump": 12,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Come On Eileen",
+    "artist": "Dexys Midnight Runners",
+    "chart": "US Top 200",
+    "old_position": 182,
+    "new_position": 161,
+    "jump": 21,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "Negociando con Sony",
+    "artist": "samp filtra",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 166,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
-    "tier": "Emerging spike",
-    "track": "It Wasn't Me (feat. Ricardo Ducent)",
-    "artist": "Shaggy",
+    "tier": "New entry",
+    "track": "Amerikkka’s Nightmare",
+    "artist": "Airr JoJo",
     "chart": "US Top 200",
-    "old_position": 184,
+    "old_position": null,
     "new_position": 169,
-    "jump": 15,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "New entry",
-    "track": "Neon Moon (with Kacey Musgraves)",
-    "artist": "Brooks & Dunn",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 173,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "Emerging spike",
-    "track": "Rethink Some Things",
-    "artist": "Luke Combs",
-    "chart": "US Top 200",
-    "old_position": 189,
-    "new_position": 176,
-    "jump": 13,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "New entry",
-    "track": "Last Thing You Need (from GTAVI: The Album)",
-    "artist": "Morgan Wallen",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 178,
-    "jump": null,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "New entry",
-    "track": "500 Miles",
-    "artist": "Peter, Paul & Mary",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 181,
-    "jump": null,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "New entry",
     "track": "Van Cleef",
     "artist": "Malie Donn",
+    "chart": "US Top 200",
+    "old_position": 183,
+    "new_position": 171,
+    "jump": 12,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Flow Natural (feat. Beenie Man & Ines)",
+    "artist": "Tito El Bambino",
+    "chart": "US Top 200",
+    "old_position": 184,
+    "new_position": 173,
+    "jump": 11,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "Hell's Kitchen",
+    "artist": "Truth Fadeaway",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 176,
+    "jump": null,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "Trendsetter",
+    "artist": "Connor Price & Haviah Mighty",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 182,
+    "jump": null,
+    "date": "2026-11-15"
+  },
+  {
+    "tier": "New entry",
+    "track": "Neon Moon",
+    "artist": "Brooks & Dunn",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 183,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
-    "track": "Flow Natural (feat. Beenie Man & Ines)",
-    "artist": "Tito El Bambino",
+    "track": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 184,
+    "new_position": 197,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
-    "track": "Mama, Don't Close Your Eyes",
-    "artist": "Bjorn Bonebreaker",
+    "track": "Beretta",
+    "artist": "Victor Mendivil & Tito Double P",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 185,
+    "new_position": 198,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
-    "track": "DIC (Dance inna coochie)",
-    "artist": "Btcitsmeech",
+    "track": "All The Small Things",
+    "artist": "blink-182",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 188,
+    "new_position": 199,
     "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "tier": "New entry",
-    "track": "Yes, I'm Ready",
-    "artist": "Barbara Mason",
+    "track": "M.E.",
+    "artist": "Gary Numan",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 195,
+    "new_position": 200,
     "jump": null,
-    "date": "2026-11-14"
-  },
-  {
-    "tier": "New entry",
-    "track": "Rise Slow",
-    "artist": "Kimo Sounds",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 196,
-    "jump": null,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   }
 ]
