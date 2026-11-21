@@ -1,402 +1,282 @@
 [
   {
-    "tier": "Emerging spike",
-    "track": "Disparate Youth",
-    "artist": "Santigold",
-    "chart": "US Top 200",
-    "old_position": 42,
-    "new_position": 29,
-    "jump": 13,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "New entry",
+    "tier": "Strong spike",
     "track": "Drive",
     "artist": "The Cars",
     "chart": "US Top 200",
+    "old_position": 40,
+    "new_position": 18,
+    "jump": 22,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "New entry",
+    "track": "Starting From Zero (feat. Michael McDonald)",
+    "artist": "Justice",
+    "chart": "US Top 200",
     "old_position": null,
-    "new_position": 40,
+    "new_position": 19,
     "jump": null,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Blood In Your Eyes (from GTAVI: The Album)",
-    "artist": "Tove Lo",
-    "chart": "US Top 200",
-    "old_position": 51,
-    "new_position": 41,
-    "jump": 10,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "All I Need Is Somebody (Explicit)",
-    "artist": "French Montana, Max B & Jamie Foxx",
-    "chart": "US Top 200",
-    "old_position": 74,
-    "new_position": 61,
-    "jump": 13,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Kryptonite",
-    "artist": "3 Doors Down",
-    "chart": "US Top 200",
-    "old_position": 82,
-    "new_position": 70,
-    "jump": 12,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
     "track": "Don’t Chart (from GTAVI: The Album)",
     "artist": "Cardi B",
     "chart": "US Top 200",
-    "old_position": 86,
-    "new_position": 72,
-    "jump": 14,
-    "date": "2026-11-20"
+    "old_position": 72,
+    "new_position": 57,
+    "jump": 15,
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
-    "track": "It's Good to Be King",
-    "artist": "Tom Petty",
-    "chart": "US Top 200",
-    "old_position": 84,
-    "new_position": 73,
-    "jump": 11,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
     "track": "Shrike",
     "artist": "Hozier",
     "chart": "US Top 200",
-    "old_position": 111,
-    "new_position": 76,
-    "jump": 35,
-    "date": "2026-11-20"
+    "old_position": 76,
+    "new_position": 65,
+    "jump": 11,
+    "date": "2026-11-21"
   },
   {
-    "tier": "Emerging spike",
-    "track": "Hell's Kitchen",
-    "artist": "Truth Fadeaway",
+    "tier": "New entry",
+    "track": "Folded",
+    "artist": "Kehlani",
     "chart": "US Top 200",
-    "old_position": 87,
+    "old_position": null,
     "new_position": 77,
-    "jump": 10,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Luxurious (feat. Slim Thug) [Remix featuring Slim Thug]",
-    "artist": "Gwen Stefani",
-    "chart": "US Top 200",
-    "old_position": 98,
-    "new_position": 86,
-    "jump": 12,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "BRABUS MUSIC",
-    "artist": "Hurricane Wisdom",
-    "chart": "US Top 200",
-    "old_position": 100,
-    "new_position": 88,
-    "jump": 12,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Wicker Woman",
-    "artist": "Freya Ridings",
-    "chart": "US Top 200",
-    "old_position": 112,
-    "new_position": 96,
-    "jump": 16,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Lover, You Should've Come Over",
-    "artist": "Jeff Buckley",
-    "chart": "US Top 200",
-    "old_position": 116,
-    "new_position": 97,
-    "jump": 19,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Stono River Blues",
-    "artist": "Shovels & Rope",
-    "chart": "US Top 200",
-    "old_position": 127,
-    "new_position": 98,
-    "jump": 29,
-    "date": "2026-11-20"
+    "jump": null,
+    "date": "2026-11-21"
   },
   {
     "tier": "Major breakout",
+    "track": "Searching (LP Version)",
+    "artist": "Change",
+    "chart": "US Top 200",
+    "old_position": 154,
+    "new_position": 80,
+    "jump": 74,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "Strong spike",
     "track": "Se Me Nota (Agárrame) [Prod By B - One]",
     "artist": "Chimbala & Omega",
     "chart": "US Top 200",
-    "old_position": 156,
-    "new_position": 101,
-    "jump": 55,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Party With The Boys",
-    "artist": "Don Toliver",
-    "chart": "US Top 200",
-    "old_position": 139,
-    "new_position": 103,
-    "jump": 36,
-    "date": "2026-11-20"
+    "old_position": 101,
+    "new_position": 81,
+    "jump": 20,
+    "date": "2026-11-21"
   },
   {
     "tier": "Major breakout",
+    "track": "The Color Violet",
+    "artist": "Tory Lanez",
+    "chart": "US Top 200",
+    "old_position": 135,
+    "new_position": 83,
+    "jump": 52,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "Midnight City",
     "artist": "M83",
     "chart": "US Top 200",
-    "old_position": 152,
-    "new_position": 105,
-    "jump": 47,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "In the Air Tonight",
-    "artist": "Phil Collins",
-    "chart": "US Top 200",
-    "old_position": 130,
-    "new_position": 108,
-    "jump": 22,
-    "date": "2026-11-20"
+    "old_position": 105,
+    "new_position": 91,
+    "jump": 14,
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
-    "track": "Nowhere Fast",
-    "artist": "Lucky Daye",
-    "chart": "US Top 200",
-    "old_position": 125,
-    "new_position": 109,
-    "jump": 16,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Everything On Fire",
-    "artist": "Maia Toakley",
-    "chart": "US Top 200",
-    "old_position": 128,
-    "new_position": 115,
-    "jump": 13,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
     "track": "Skrilla",
     "artist": "Kodak Black",
     "chart": "US Top 200",
-    "old_position": 140,
-    "new_position": 117,
-    "jump": 23,
-    "date": "2026-11-20"
+    "old_position": 117,
+    "new_position": 103,
+    "jump": 14,
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
     "track": "Suzuki (from GTAVI: The Album)",
     "artist": "Fuerza Regida",
     "chart": "US Top 200",
-    "old_position": 131,
-    "new_position": 121,
-    "jump": 10,
-    "date": "2026-11-20"
+    "old_position": 121,
+    "new_position": 108,
+    "jump": 13,
+    "date": "2026-11-21"
   },
   {
-    "tier": "New entry",
-    "track": "The Color Violet",
-    "artist": "Tory Lanez",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 135,
-    "jump": null,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
+    "tier": "Strong spike",
     "track": "Last Thing You Need (from GTAVI: The Album)",
     "artist": "Morgan Wallen",
     "chart": "US Top 200",
-    "old_position": 155,
-    "new_position": 138,
-    "jump": 17,
-    "date": "2026-11-20"
+    "old_position": 138,
+    "new_position": 113,
+    "jump": 25,
+    "date": "2026-11-21"
   },
   {
-    "tier": "Emerging spike",
-    "track": "Come on Eileen",
-    "artist": "Dexys Midnight Runners",
+    "tier": "New entry",
+    "track": "Kiss You All Over",
+    "artist": "Exile",
     "chart": "US Top 200",
-    "old_position": 161,
-    "new_position": 151,
-    "jump": 10,
-    "date": "2026-11-20"
+    "old_position": null,
+    "new_position": 115,
+    "jump": null,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "No Remorse",
+    "artist": "cEotooRicch",
+    "chart": "US Top 200",
+    "old_position": 153,
+    "new_position": 121,
+    "jump": 32,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "New entry",
+    "track": "Draw You Out",
+    "artist": "Noah Kahan & The Hunger Games",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 130,
+    "jump": null,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Soy Fanatica Sensual",
+    "artist": "DEEB OB",
+    "chart": "US Top 200",
+    "old_position": 186,
+    "new_position": 133,
+    "jump": 53,
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
     "track": "All There (feat. Bankroll Fresh)",
     "artist": "Jeezy",
     "chart": "US Top 200",
-    "old_position": 168,
-    "new_position": 152,
-    "jump": 16,
-    "date": "2026-11-20"
+    "old_position": 152,
+    "new_position": 135,
+    "jump": 17,
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "No Remorse",
-    "artist": "cEotooRicch",
+    "track": "Canalla",
+    "artist": "Romeo Santos & El Chaval de la Bachata",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 153,
+    "new_position": 145,
     "jump": null,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "Searching (LP Version)",
-    "artist": "Change",
+    "track": "Just A Woman",
+    "artist": "Lainey Wilson",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 154,
+    "new_position": 148,
     "jump": null,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Inner Light",
-    "artist": "Elderbrook & Bob Moses",
-    "chart": "US Top 200",
-    "old_position": 178,
-    "new_position": 155,
-    "jump": 23,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "DIC (Dance inna coochie)",
-    "artist": "Btcitsmeech",
-    "chart": "US Top 200",
-    "old_position": 182,
-    "new_position": 160,
-    "jump": 22,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Don't Speak",
-    "artist": "No Doubt",
-    "chart": "US Top 200",
-    "old_position": 177,
-    "new_position": 162,
-    "jump": 15,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Waiter / The 5 Senses",
-    "artist": "Jeremih",
-    "chart": "US Top 200",
-    "old_position": 189,
-    "new_position": 164,
-    "jump": 25,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "Cry About It",
-    "artist": "Keysoul",
-    "chart": "US Top 200",
-    "old_position": 187,
-    "new_position": 167,
-    "jump": 20,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
     "track": "Snowman",
     "artist": "Sia",
     "chart": "US Top 200",
-    "old_position": 188,
-    "new_position": 177,
-    "jump": 11,
-    "date": "2026-11-20"
+    "old_position": 177,
+    "new_position": 162,
+    "jump": 15,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Mas Que Nada (feat. Gracinha Leporace) [2011 Rio Version]",
+    "artist": "Sergio Mendes",
+    "chart": "US Top 200",
+    "old_position": 198,
+    "new_position": 171,
+    "jump": 27,
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "Soy Fanatica Sensual",
-    "artist": "DEEB OB",
+    "track": "Too Close",
+    "artist": "Next",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 186,
+    "new_position": 182,
     "jump": null,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "New entry",
+    "track": "Crazy For You",
+    "artist": "Lana Del Rey",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 184,
+    "jump": null,
+    "date": "2026-11-21"
   },
   {
     "tier": "Emerging spike",
-    "track": "Don't You (Forget About Me)",
-    "artist": "Simple Minds",
+    "track": "Semi-Charmed Life",
+    "artist": "Third Eye Blind",
     "chart": "US Top 200",
-    "old_position": 199,
-    "new_position": 189,
-    "jump": 10,
-    "date": "2026-11-20"
+    "old_position": 197,
+    "new_position": 186,
+    "jump": 11,
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "un x100to (Mixed)",
-    "artist": "Grupo Frontera & Bad Bunny",
+    "track": "Walking on a Dream",
+    "artist": "Empire Of The Sun",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 190,
+    "new_position": 189,
     "jump": null,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "Mas Que Nada (feat. Gracinha Leporace) [2011 Rio Version]",
-    "artist": "Sergio Mendes",
+    "track": "Leave You Alone (feat. Ne-Yo)",
+    "artist": "Jeezy",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 196,
+    "jump": null,
+    "date": "2026-11-21"
+  },
+  {
+    "tier": "New entry",
+    "track": "Mi Chico (Jason Derulo x Melody Version)",
+    "artist": "DJ Goja, Jason Derulo & Melody",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 198,
     "jump": null,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   {
     "tier": "New entry",
-    "track": "Power Trip (feat. Miguel)",
-    "artist": "J. Cole",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 199,
-    "jump": null,
-    "date": "2026-11-20"
-  },
-  {
-    "tier": "New entry",
-    "track": "Come into My World (Fischerspooner Mix)",
-    "artist": "Kylie Minogue",
+    "track": "Low budget Vagina(LBVA)Amanda",
+    "artist": "Bianca Case",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 200,
     "jump": null,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   }
 ]
