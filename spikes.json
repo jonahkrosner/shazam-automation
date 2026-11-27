@@ -1,382 +1,452 @@
 [
   {
-    "tier": "Strong spike",
-    "track": "Burn This Shit Down (from GTAVI: The Album)",
-    "artist": "Travis Scott",
-    "chart": "US Top 200",
-    "old_position": 29,
-    "new_position": 2,
-    "jump": 27,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "Got Dat (from GTAVI: The Album)",
-    "artist": "Pooh Shiesty",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 18,
-    "jump": null,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "Willing and Able",
-    "artist": "Noah Kahan",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 21,
-    "jump": null,
-    "date": "2026-11-26"
-  },
-  {
     "tier": "Emerging spike",
-    "track": "Sails",
-    "artist": "Carter Faith",
-    "chart": "US Top 200",
-    "old_position": 44,
-    "new_position": 27,
-    "jump": 17,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Major breakout",
     "track": "LUV DAT.",
     "artist": "YFN Lucci, Belly Gang Kushington & Breskii",
     "chart": "US Top 200",
-    "old_position": 74,
-    "new_position": 32,
-    "jump": 42,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Major breakout",
-    "track": "Jamaican (Bam Bam)",
-    "artist": "HUGEL & SOLTO (FR)",
-    "chart": "US Top 200",
-    "old_position": 79,
-    "new_position": 37,
-    "jump": 42,
-    "date": "2026-11-26"
+    "old_position": 32,
+    "new_position": 18,
+    "jump": 14,
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
     "track": "Money for Nothing",
     "artist": "Dire Straits",
     "chart": "US Top 200",
-    "old_position": 66,
-    "new_position": 54,
+    "old_position": 54,
+    "new_position": 42,
     "jump": 12,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
-    "tier": "Strong spike",
+    "tier": "Emerging spike",
     "track": "I'm a Thug",
     "artist": "Trick Daddy",
     "chart": "US Top 200",
-    "old_position": 94,
-    "new_position": 66,
-    "jump": 28,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "The Color Violet",
-    "artist": "Tory Lanez",
-    "chart": "US Top 200",
-    "old_position": 85,
-    "new_position": 75,
-    "jump": 10,
-    "date": "2026-11-26"
+    "old_position": 66,
+    "new_position": 51,
+    "jump": 15,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
-    "track": "Bad Girl",
-    "artist": "USHER",
-    "chart": "US Top 200",
-    "old_position": 100,
-    "new_position": 76,
-    "jump": 24,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Emerging spike",
     "track": "Alma Rota",
     "artist": "Dalvin La Melodia & El Blachy",
     "chart": "US Top 200",
-    "old_position": 92,
-    "new_position": 79,
-    "jump": 13,
-    "date": "2026-11-26"
+    "old_position": 79,
+    "new_position": 57,
+    "jump": 22,
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
-    "track": "Hate Sleeping Alone (Bonus Track)",
-    "artist": "Drake",
+    "track": "Bad Girl",
+    "artist": "USHER",
     "chart": "US Top 200",
-    "old_position": 98,
-    "new_position": 86,
-    "jump": 12,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Strong spike",
-    "track": "The Reason",
-    "artist": "Hoobastank",
-    "chart": "US Top 200",
-    "old_position": 109,
-    "new_position": 89,
-    "jump": 20,
-    "date": "2026-11-26"
+    "old_position": 76,
+    "new_position": 60,
+    "jump": 16,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
     "track": "I'll Be There",
     "artist": "Jess Glynne",
     "chart": "US Top 200",
-    "old_position": 137,
-    "new_position": 99,
-    "jump": 38,
-    "date": "2026-11-26"
+    "old_position": 99,
+    "new_position": 62,
+    "jump": 37,
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
-    "track": "Pepas",
-    "artist": "Farruko",
+    "track": "Cowboys and Angels (2010 Remastered Version)",
+    "artist": "George Michael",
     "chart": "US Top 200",
-    "old_position": 114,
-    "new_position": 103,
-    "jump": 11,
-    "date": "2026-11-26"
+    "old_position": 78,
+    "new_position": 66,
+    "jump": 12,
+    "date": "2026-11-27"
   },
   {
-    "tier": "New entry",
-    "track": "Wyw my sweetie #JerseyClub (Slowed)",
-    "artist": "nissi & 25Hzz",
+    "tier": "Strong spike",
+    "track": "The Reason",
+    "artist": "Hoobastank",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 116,
-    "jump": null,
-    "date": "2026-11-26"
+    "old_position": 89,
+    "new_position": 69,
+    "jump": 20,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Olimpo",
+    "artist": "Neton Vega & Fuerza Regida",
+    "chart": "US Top 200",
+    "old_position": 84,
+    "new_position": 70,
+    "jump": 14,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Everything On Fire",
+    "artist": "Maia Toakley",
+    "chart": "US Top 200",
+    "old_position": 83,
+    "new_position": 71,
+    "jump": 12,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Golden Slumbers / Carry That Weight (Takes 1-3 / Medley)",
+    "artist": "The Beatles",
+    "chart": "US Top 200",
+    "old_position": 106,
+    "new_position": 72,
+    "jump": 34,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Hate Sleeping Alone (Bonus Track)",
+    "artist": "Drake",
+    "chart": "US Top 200",
+    "old_position": 86,
+    "new_position": 75,
+    "jump": 11,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "begged",
+    "artist": "Olivia Rodrigo",
+    "chart": "US Top 200",
+    "old_position": 143,
+    "new_position": 80,
+    "jump": 63,
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
     "track": "No Flaggin",
     "artist": "Kodak Black",
     "chart": "US Top 200",
-    "old_position": 132,
-    "new_position": 117,
-    "jump": 15,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "Fancy Like Christmas",
-    "artist": "Walker Hayes",
-    "chart": "US Top 200",
-    "old_position": 131,
-    "new_position": 119,
-    "jump": 12,
-    "date": "2026-11-26"
+    "old_position": 117,
+    "new_position": 98,
+    "jump": 19,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
     "track": "Se Toco El T#tito Con Mi Gl*ck",
     "artist": "Anuel AA",
     "chart": "US Top 200",
-    "old_position": 149,
-    "new_position": 122,
-    "jump": 27,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "Emerging spike",
-    "track": "UNETHICAL",
-    "artist": "Faouzia",
-    "chart": "US Top 200",
-    "old_position": 147,
-    "new_position": 133,
-    "jump": 14,
-    "date": "2026-11-26"
+    "old_position": 122,
+    "new_position": 101,
+    "jump": 21,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
+    "track": "UNETHICAL",
+    "artist": "Faouzia",
+    "chart": "US Top 200",
+    "old_position": 133,
+    "new_position": 105,
+    "jump": 28,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Return of the Mack (C&J Radio Edit)",
+    "artist": "Mark Morrison",
+    "chart": "US Top 200",
+    "old_position": 127,
+    "new_position": 110,
+    "jump": 17,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Snowman",
+    "artist": "Sia",
+    "chart": "US Top 200",
+    "old_position": 128,
+    "new_position": 111,
+    "jump": 17,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Major breakout",
+    "track": "Не виновен",
+    "artist": "Icegergert & A-THIS 52",
+    "chart": "US Top 200",
+    "old_position": 168,
+    "new_position": 113,
+    "jump": 55,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
     "track": "Welcome to Los Santos",
     "artist": "Oh No",
     "chart": "US Top 200",
-    "old_position": 161,
-    "new_position": 134,
-    "jump": 27,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "Orbiter",
-    "artist": "Noah Kahan",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 140,
-    "jump": null,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "begged",
-    "artist": "Olivia Rodrigo",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 143,
-    "jump": null,
-    "date": "2026-11-26"
+    "old_position": 134,
+    "new_position": 115,
+    "jump": 19,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
     "track": "No Panties",
     "artist": "Young Dolph",
     "chart": "US Top 200",
-    "old_position": 168,
-    "new_position": 144,
-    "jump": 24,
-    "date": "2026-11-26"
+    "old_position": 144,
+    "new_position": 123,
+    "jump": 21,
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "Pumped Up Kicks",
-    "artist": "Foster the People",
+    "track": "He Ain't Heavy, He's My Brother",
+    "artist": "The Hollies",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 145,
+    "new_position": 124,
     "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
-    "track": "Good Luck, Babe!",
-    "artist": "Chappell Roan",
+    "track": "Lies (feat. Lana Del Rey)",
+    "artist": "Zach Bryan & Lana Del Rey",
     "chart": "US Top 200",
-    "old_position": 159,
-    "new_position": 147,
-    "jump": 12,
-    "date": "2026-11-26"
+    "old_position": 135,
+    "new_position": 125,
+    "jump": 10,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "New entry",
+    "track": "Torn (feat. Dolly Parton)",
+    "artist": "U2",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 126,
+    "jump": null,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Pumped Up Kicks",
+    "artist": "Foster the People",
+    "chart": "US Top 200",
+    "old_position": 145,
+    "new_position": 135,
+    "jump": 10,
+    "date": "2026-11-27"
   },
   {
     "tier": "Strong spike",
     "track": "Tremendo Desastre",
     "artist": "Myke Towers & Rauw Alejandro",
     "chart": "US Top 200",
-    "old_position": 195,
-    "new_position": 167,
-    "jump": 28,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "Не виновен",
-    "artist": "Icegergert & A-THIS 52",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 168,
-    "jump": null,
-    "date": "2026-11-26"
+    "old_position": 167,
+    "new_position": 136,
+    "jump": 31,
+    "date": "2026-11-27"
   },
   {
     "tier": "Emerging spike",
-    "track": "That's It (feat. Future) [from GTAVI: The Album]",
-    "artist": "Yung Lean & Metro Boomin",
+    "track": "Trophy",
+    "artist": "Leon Thomas",
     "chart": "US Top 200",
-    "old_position": 180,
-    "new_position": 169,
+    "old_position": 151,
+    "new_position": 137,
+    "jump": 14,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Cinderella (feat. Ty Dolla $ign)",
+    "artist": "Mac Miller",
+    "chart": "US Top 200",
+    "old_position": 155,
+    "new_position": 144,
     "jump": 11,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
-    "tier": "Emerging spike",
+    "tier": "Major breakout",
+    "track": "You Get What You Give",
+    "artist": "New Radicals",
+    "chart": "US Top 200",
+    "old_position": 198,
+    "new_position": 147,
+    "jump": 51,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Strong spike",
+    "track": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "chart": "US Top 200",
+    "old_position": 174,
+    "new_position": 154,
+    "jump": 20,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Strong spike",
     "track": "Color Blind",
     "artist": "Belly Gang Kushington",
     "chart": "US Top 200",
-    "old_position": 190,
-    "new_position": 177,
-    "jump": 13,
-    "date": "2026-11-26"
+    "old_position": 177,
+    "new_position": 156,
+    "jump": 21,
+    "date": "2026-11-27"
   },
   {
-    "tier": "New entry",
-    "track": "AHH YEA",
-    "artist": "Playboi Carti",
+    "tier": "Strong spike",
+    "track": "Strawberries",
+    "artist": "Caamp",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 181,
-    "jump": null,
-    "date": "2026-11-26"
+    "old_position": 187,
+    "new_position": 157,
+    "jump": 30,
+    "date": "2026-11-27"
   },
   {
-    "tier": "New entry",
+    "tier": "Emerging spike",
+    "track": "vintage vuitton",
+    "artist": "earfzilla",
+    "chart": "US Top 200",
+    "old_position": 178,
+    "new_position": 159,
+    "jump": 19,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Can I Ride",
+    "artist": "SIDEPIECE & 95 South",
+    "chart": "US Top 200",
+    "old_position": 171,
+    "new_position": 160,
+    "jump": 11,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Strong spike",
     "track": "Love",
     "artist": "Keyshia Cole",
     "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 185,
-    "jump": null,
-    "date": "2026-11-26"
+    "old_position": 185,
+    "new_position": 163,
+    "jump": 22,
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "Strawberries",
-    "artist": "Caamp",
+    "track": "Go Easy (from GTAVI: The Album)",
+    "artist": "Dua Lipa",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 164,
+    "jump": null,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Power Trip (feat. Miguel)",
+    "artist": "J. Cole",
+    "chart": "US Top 200",
+    "old_position": 188,
+    "new_position": 172,
+    "jump": 16,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Sober",
+    "artist": "TOOL",
+    "chart": "US Top 200",
+    "old_position": 190,
+    "new_position": 175,
+    "jump": 15,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "Emerging spike",
+    "track": "Un-thinkable (I'm Ready)",
+    "artist": "Alicia Keys",
+    "chart": "US Top 200",
+    "old_position": 192,
+    "new_position": 177,
+    "jump": 15,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "New entry",
+    "track": "Christmas Canon (2016 Remaster)",
+    "artist": "Trans-Siberian Orchestra",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 187,
     "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "Power Trip (feat. Miguel)",
-    "artist": "J. Cole",
+    "track": "Murda Bend",
+    "artist": "Jhonniedamnd",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 188,
     "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "Sober",
-    "artist": "TOOL",
+    "track": "Happy Together",
+    "artist": "The Turtles",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 190,
+    "new_position": 189,
     "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "Un-thinkable (I'm Ready)",
-    "artist": "Alicia Keys",
+    "track": "A Couple Minutes",
+    "artist": "Olivia Dean",
     "chart": "US Top 200",
     "old_position": null,
-    "new_position": 192,
+    "new_position": 194,
     "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "tier": "New entry",
-    "track": "You Get What You Give",
-    "artist": "New Radicals",
+    "track": "El Dueño De Tu Amor",
+    "artist": "Los Yes Yes, Sonido Los Jrs Oficial, Rolandos Show & Los JR's",
+    "chart": "US Top 200",
+    "old_position": null,
+    "new_position": 195,
+    "jump": null,
+    "date": "2026-11-27"
+  },
+  {
+    "tier": "New entry",
+    "track": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
     "chart": "US Top 200",
     "old_position": null,
     "new_position": 198,
     "jump": null,
-    "date": "2026-11-26"
-  },
-  {
-    "tier": "New entry",
-    "track": "Underneath the Tree",
-    "artist": "Kelly Clarkson",
-    "chart": "US Top 200",
-    "old_position": null,
-    "new_position": 199,
-    "jump": null,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   }
 ]
